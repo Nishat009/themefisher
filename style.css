@@ -1,6 +1,7 @@
 body {
   margin-top: 5px;
   font-family: Poppins;
+  scroll-behavior: smooth;
 }
 .top{
   position: absolute;
@@ -377,6 +378,12 @@ border: 1px solid #196781;
 }
 .section7 h1{
   margin-top:-100px;
+    font-size: 38px;
+    /* padding-top: 100px; */
+    font-weight: 700;
+    text-align: center;
+    color: white;
+  
 }
 .section7 p{
   margin-top:10px;
@@ -837,16 +844,14 @@ margin-top: -51px;
   .section71{
     margin-left: 0px;
   }
-  .section7-1st{
-    margin-top:30px;
-    /* margin-left: 30px; */
-  }
-  .section7-logo{
-    height: 46px;
-    width: 46px;
-  }
   .section7 h1{
-    margin-top:-100px;
+    margin-top:-200px;
+      font-size: 38px;
+      /* padding-top: 100px; */
+      font-weight: 700;
+      text-align: center;
+      color: white;
+    
   }
   .section7 p{
     margin-top:10px;
@@ -855,6 +860,12 @@ margin-top: -51px;
   color: #E6E6E6;
   
   }
+  .section7-logo{
+    height: 46px;
+    width: 46px;
+  }
+  
+  
   .section7-2nd h5{
     margin-top:40px;
     margin-left: 20px;
@@ -866,11 +877,7 @@ margin-top: -51px;
    
     color: #E6E6E6;
   }
-  .section-2 p{
-    color: #E6E6E6;
-    margin-left: 20px;
-    
-  }
+ 
   .social-icon{
     height:45px;
     width:45px;
